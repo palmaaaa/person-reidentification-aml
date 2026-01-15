@@ -89,10 +89,10 @@ The write up includes:
 
 ## 👥 Authors
 
-- **Paolo Cursi** (2155622)  
-- **Stefano Saravalle** (1948684)  
-- **Michele Palma** (1849661)  
-- **Pietro Signorino** (2149741)
+- **Paolo Cursi**
+- **Stefano Saravalle**
+- **Michele Palma** 
+- **Pietro Signorino**
 
 Sapienza University of Rome
 
