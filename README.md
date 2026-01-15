@@ -26,8 +26,6 @@ Evaluation is performed on common ReID datasets (notably **Market-1501** and **C
 
 - `report/` — LaTeX sources + compiled PDF
   - `report/main.pdf` — final report
-  - `report/sections/` — report sections
-  - `report/img/` — figures used in the report
 - `*.ipynb` — experiment notebooks:
   - `Contrastive.ipynb`
   - `ViTvae.ipynb`
